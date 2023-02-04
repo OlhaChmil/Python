@@ -1,0 +1,3 @@
+String_1 abra
+string_2 cada
+string_3 bra
